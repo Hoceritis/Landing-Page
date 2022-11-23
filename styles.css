@@ -3,6 +3,7 @@
     display: flex;
     justify-content:space-evenly;
     flex-wrap: wrap;
+    background-color: #1F2937;
 }
 
 #first-part > div {
@@ -13,3 +14,39 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+#hero-main-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+#hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+#button {
+    background-color: #3882F6;
+    color: white;
+}
+
+#header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ /* unvisited link */
+ a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: orange;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
