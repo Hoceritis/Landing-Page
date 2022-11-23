@@ -1,4 +1,15 @@
-#firstPart {
+#first-part {
     border: solid;
     display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+
+#first-part > div {
+    width: 800px;
+}
+
+#links-list{
+    display: flex;
+    justify-content: space-evenly;
 }
