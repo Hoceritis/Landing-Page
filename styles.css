@@ -3,6 +3,7 @@
     justify-content:space-evenly;
     flex-wrap: wrap;
     background-color: #1F2937;
+    height: 400px;
 }
 
 #first-part > div {
@@ -60,6 +61,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-evenly;
+    height: 400px;
   }
 
   .square {
