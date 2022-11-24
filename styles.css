@@ -1,5 +1,4 @@
 #first-part {
-    /* border: solid; */
     display: flex;
     justify-content:space-evenly;
     flex-wrap: wrap;
@@ -54,4 +53,8 @@
   #image-placeholder {
     display: flex;
     justify-content: center;
+  }
+
+  #second-part {
+    border: solid;
   }
