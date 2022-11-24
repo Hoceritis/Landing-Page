@@ -57,4 +57,18 @@
 
   #second-part {
     border: solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .square {
+    height: 100px;
+    width: 90px;
+    background-color: #555;
+  }
+
+  #squares-area {
+    display: flex;
+    width: 500px;
   }
