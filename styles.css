@@ -96,6 +96,31 @@
 
   #third-part{
     border: solid;
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #quote{
+    font-size: 36px;
+    font-weight: light italic;
+    color: #1F2937;
+  }
+
+  #quote-box{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #author-box{
+    display: flex;
+    justify-content: flex-end;
   }
  
+  #author{
+    font-weight: bold;
+  }
 
