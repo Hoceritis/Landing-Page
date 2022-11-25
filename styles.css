@@ -26,7 +26,7 @@
     color: #E5E7EB;
 }
 
-#button {
+#button-top {
     background-color: #3882F6;
     color: white;
 }
@@ -95,7 +95,6 @@
   }
 
   #third-part{
-    border: solid;
     height: 400px;
     background-color: #E5E7EB;
     display: flex;
@@ -122,5 +121,10 @@
  
   #author{
     font-weight: bold;
+  }
+
+  #fourth-part{
+    border: solid;
+    height: 400px;
   }
 
