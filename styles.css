@@ -126,5 +126,17 @@
   #fourth-part{
     border: solid;
     height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #call-to-action-box{
+    border: solid;
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
   }
 
