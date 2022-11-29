@@ -34,8 +34,8 @@ body {
   background-color: #3882F6;
   color: white;
   border-radius: 5px;
-  width: 105px;
-  height: 33px;
+  width: 120px;
+  height: 35px;
   border: none;
   font-weight: bold;
 }
@@ -155,7 +155,13 @@ body {
   }
 
 #button-bottom{
-  color: #3882F6;
+  background-color: #3882F6;
+  color: white;
+  border-radius: 7px;
+  border: 2px solid white;
+  width: 120px;
+  height: 35px;
+  font-weight: bold;
 }
 
 #call-to-action-text > p:nth-child(1) {
