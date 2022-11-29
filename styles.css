@@ -11,7 +11,7 @@ body {
 }
 
 #first-part > div {
-    width: 800px;
+    width: 700px;
 }
 
 #links-list{
@@ -54,6 +54,7 @@ body {
  /* unvisited link */
  a:link {
     color: white;
+    text-decoration: none;
   }
   
   /* visited link */
@@ -63,7 +64,7 @@ body {
   
   /* mouse over link */
   a:hover {
-    color: hotpink;
+    color: #3882F6;
   }
 
   #image-placeholder {
