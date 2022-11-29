@@ -1,3 +1,7 @@
+body {
+  margin: 0px;
+}
+
 #first-part {
     display: flex;
     justify-content:space-evenly;
@@ -124,7 +128,6 @@
   }
 
   #fourth-part{
-    border: solid;
     height: 400px;
     display: flex;
     justify-content: center;
@@ -153,4 +156,21 @@
 #call-to-action-text > p:nth-child(1) {
   font-weight: bold;
   font-size: 22px;
+}
+
+#footer{
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+}
+
+#copyright{
+  color: white;
+  font-weight: italic;
+  font-size: 18px;
+  width: 280px;
+  display: flex;
+  justify-content: center;
 }
