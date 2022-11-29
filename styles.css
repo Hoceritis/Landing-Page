@@ -31,8 +31,13 @@ body {
 }
 
 #button-top {
-    background-color: #3882F6;
-    color: white;
+  background-color: #3882F6;
+  color: white;
+  border-radius: 5px;
+  width: 105px;
+  height: 33px;
+  border: none;
+  font-weight: bold;
 }
 
 #header-logo {
